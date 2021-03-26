@@ -36,3 +36,5 @@ Simply append a ?q=[TOPIC] to the topic URL to combine the results of two topics
 
 All repositories tagged with #covid-19 and #visualization:
 https://github.com/topics/covid-19?q=visualization
+
+Press “?” on any GitHub page and get a list of shortcuts which can be applied to this particular page:
